@@ -1,0 +1,15 @@
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/bin/Debug/net6.0/LogicAndUnit
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/bin/Debug/net6.0/LogicAndUnit.deps.json
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/bin/Debug/net6.0/LogicAndUnit.runtimeconfig.json
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/bin/Debug/net6.0/LogicAndUnit.dll
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/bin/Debug/net6.0/ref/LogicAndUnit.dll
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/bin/Debug/net6.0/LogicAndUnit.pdb
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/obj/Debug/net6.0/LogicAndUnit.csproj.AssemblyReference.cache
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/obj/Debug/net6.0/LogicAndUnit.GeneratedMSBuildEditorConfig.editorconfig
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/obj/Debug/net6.0/LogicAndUnit.AssemblyInfoInputs.cache
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/obj/Debug/net6.0/LogicAndUnit.AssemblyInfo.cs
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/obj/Debug/net6.0/LogicAndUnit.csproj.CoreCompileInputs.cache
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/obj/Debug/net6.0/LogicAndUnit.dll
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/obj/Debug/net6.0/ref/LogicAndUnit.dll
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/obj/Debug/net6.0/LogicAndUnit.pdb
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/obj/Debug/net6.0/LogicAndUnit.genruntimeconfig.cache
