@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0V0P3aXXiYI1IcIDlexpxQtOR5yYa+HQhArCQXtFHnF1VLX8Sjeid4amzbSS8bewoldPUob2ItaIWjF/b+2SQw==",
+  "dgSpecHash": "geE+tacGRMOxOvK+20/N5Qgtq4uC5W/6xwUsuJ7GBUgFdDSihZNrHIMAlFOHsxRjSUChiR6zp7nTLmVXNglQBQ==",
   "success": true,
   "projectFilePath": "/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/LogicAndUnit.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/vivek/.nuget/packages/nlog/4.7.15/nlog.4.7.15.nupkg.sha512",
+    "/home/vivek/.nuget/packages/nlog.config/4.7.15/nlog.config.4.7.15.nupkg.sha512",
+    "/home/vivek/.nuget/packages/nlog.schema/4.7.15/nlog.schema.4.7.15.nupkg.sha512"
+  ],
   "logs": []
 }

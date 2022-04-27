@@ -13,3 +13,6 @@
 /home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/obj/Debug/net6.0/ref/LogicAndUnit.dll
 /home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/obj/Debug/net6.0/LogicAndUnit.pdb
 /home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/obj/Debug/net6.0/LogicAndUnit.genruntimeconfig.cache
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/bin/Debug/net6.0/NLog.config
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/bin/Debug/net6.0/NLog.dll
+/home/vivek/bridgelabz/Day-6/LogicalAndUnitTestingProblems/LogicAndUnit/obj/Debug/net6.0/LogicAndUnit.csproj.CopyComplete
